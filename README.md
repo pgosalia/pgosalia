@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pgosalia
-- 👀 I’m interested in Windows Security
-- 🌱 I’m currently learning coding and scripting
-- 💞️ I’m looking to collaborate on scripts and windows security
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning coding and different tools for data analysis
+- 💞️ I’m looking to collaborate on analyzing datasets
 - 📫 How to reach me either my email, parsh.611@hotmail.com, parshgosalia18@gmail.com or my Linkedin
 
 <!---
